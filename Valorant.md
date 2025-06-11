@@ -1,6 +1,6 @@
 # Valorant:Un gran videojuego
 Valorant es un videojuego de disparos en primera persona (FPS) táctico y competitivo, desarrollado y publicado por Riot Games (la misma compañía detrás de League of Legends). 
-![Foto del videojuego](valo2.jpg)
+![Foto del videojuego](imgs/valo2.jpg)
 # Objetivo del juego:
 Dos equipos de 5 jugadores se enfrentan en rondas. [Elegir equipo:Agentes](https://www.youtube.com/watch?v=QuOuLIk0vQ0)
 Uno de los equipos es atacante y el otro es defensor.
@@ -31,17 +31,17 @@ Spike Rush: Partidas cortas (4 rondas).
 Deathmatch: Solo para practicar puntería.
 Premier: Modo competitivo de equipos preformados.
 
-![Foto partida](valo3.jpg)
+![Foto partida](imgs/valo3.jpg)
 ## ¿Y las armas?
 Cada ronda empiezas con dinero y puedes comprar armas (pistolas, rifles, escopetas, etc.).
 Si ganas rondas o haces bajas, ganas más dinero para mejorar tus armas y habilidades.
 Morir en una ronda significa que pierdes todo lo que llevabas.
-![Foto de armas](valo5.jpg)
+![Foto de armas](imgs/valo5.jpg)
 # Cosas que debes saber como principiante
 - Disparar caminando es malo. Si corres o te mueves, fallas más. Lo mejor es disparar quieto o caminando lento.
 - Apunta a la cabeza (headshots). 
 
-  ![Headshots](valo6.gif)
+  ![Headshots](imgs/valo6.gif)
 - Camina con Shift para no hacer ruido.
 - Escucha pasos del enemigo. El sonido es clave.
 - Practica tu puntería en el campo de tiro. [video de campo de tiro](https://www.youtube.com/watch?v=bXLtfQ_0QIk)

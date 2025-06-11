@@ -1,5 +1,5 @@
 # Los Sims: El Juego que Revolucionó la Simulación de Vida
-![Portada de Los Sims](simsgame.jpg)
+![Portada de Los Sims](imgs/simsgame.jpg)
 
 *Los Sims* es mucho más que un videojuego: es un fenómeno cultural que transformó para siempre el género de simulación de vida. Lanzado en el año 2000 por Maxis y Electronic Arts, fue creado por Will Wright, el mismo desarrollador detrás de *SimCity*. La idea era sencilla pero revolucionaria: en lugar de controlar una ciudad o un imperio, el jugador controlaba personas —sus rutinas, deseos, relaciones, trabajos y hogares— en un entorno virtual.
 
@@ -7,7 +7,7 @@ Lo que hizo único a *Los Sims* fue su flexibilidad: no hay una "forma correcta"
 
 Hasta la fecha, la franquicia ha vendido más de 200 millones de copias a nivel mundial, y sigue vigente gracias a una comunidad activa, contenido descargable (DLCs), mods, y una fuerte presencia en redes sociales y plataformas como YouTube o Twitch.
 
-![GIF de Los Sims](plumbob.gif)
+![GIF de Los Sims](imgs/plumbob.gif)
 
 # La Evolución de la Franquicia
 
@@ -21,7 +21,7 @@ La saga ha pasado por múltiples etapas y versiones, cada una trayendo mejoras y
 Cada una de estas instalaciones de la franquicia vienen acompañadas por numerosos *packs de expansión*, *game packs* y *kits* que amplían las opciones jugables.  
 Además de las versiones para PC y consolas, *Los Sims* también tiene versiones móviles. **Los Sims FreePlay** y **Los Sims Mobile** están disponibles para dispositivos Android y iOS, permitiendo a los jugadores disfrutar de una experiencia de simulación de vida en sus celulares. Aunque tienen algunas limitaciones frente a las versiones de escritorio, siguen ofreciendo una experiencia entretenida y accesible.
 
-![Los Sims evolución del juego durante los años](simsevolution.jpg)
+![Los Sims evolución del juego durante los años](imgs/simsevolution.jpg)
 
 
 # ¿Qué Podés Hacer en Los Sims?
@@ -42,7 +42,7 @@ El juego ofrece una enorme variedad de experiencias y posibilidades. Algunas de 
 4. **Caos puro:** Encerrar Sims en una piscina sin escalera (clásico).
 5. **Desafíos comunitarios:** Como el reto de la Legacía (jugar 10 generaciones seguidas).
 
-![Creación de un Sim](createsims.jpg)
+![Creación de un Sim](imgs/createsims.jpg)
 
 # Recursos y Comunidad
 
